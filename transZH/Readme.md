@@ -36,6 +36,6 @@ Apache License V2.0
 1. Keyboard support, [kleinerpirat](https://forums.ankiweb.net/t/cloze-one-by-one-uncovering/12584)
 2. Float button view, [kleinerpirat](https://ankiweb.net/shared/info/1231171279)
 3. ClozeAdv AnkiTemplate, [ruin1990](https://github.com/ruin1990/AnkiTemplate) or from [AnkiWeb](https://ankiweb.net/shared/info/457099967).
-4. Convert between Traditional Chinese and Simplified Chinese. [无忧技术网](http://www.liqwei.com/)
+4. Convert between Traditional Chinese and Simplified Chinese, [无忧技术网](http://www.liqwei.com/)
 
 If there are any missing items, please let me know.
