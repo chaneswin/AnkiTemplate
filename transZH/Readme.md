@@ -2,10 +2,14 @@
 Now, we can translate between Traditional Chinese and Simplified Chinese in an Anki card.
 Original Github is [here](https://github.com/chaneswin/AnkiTemplate/tree/main/transZH)
 
+這張卡片是一張讀書筆記卡，它的背面可以用按鈕或鍵盤做簡繁轉換。
+
 
 ## Usage
 1. You can import file AnkiTemplate_transZH.apkg or from [AnkiWeb](https://ankiweb.net/shared/info/2067930436).
 2. Change you own Basic Template back content and style content with my [back.html](https://github.com/chaneswin/AnkiTemplate/blob/main/transZH/back.html) and [style.css](https://github.com/chaneswin/AnkiTemplate/blob/main/transZH/style.css). Please change back content with your own Fields.
+
+請直接下載 AnkiTemplate_transZH.apkg 並匯入，如果你採用複製代碼到卡片背面與樣式的方式，請記得改用自己的欄位名稱，不然會看不到背面該出現的內容哦。
 
 
 ## Features
