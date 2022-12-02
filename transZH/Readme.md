@@ -4,7 +4,7 @@ Original Github is [here](https://github.com/chaneswin/AnkiTemplate/tree/main/tr
 
 
 ## Usage
-1. You can import file AnkiTemplate_transZH.apkg or from [AnkiWeb](https://#).
+1. You can import file AnkiTemplate_transZH.apkg or from [AnkiWeb](https://ankiweb.net/shared/info/2067930436).
 2. Change you own Basic Template back content and style content with my [back.html](https://github.com/chaneswin/AnkiTemplate/blob/main/transZH/back.html) and [style.css](https://github.com/chaneswin/AnkiTemplate/blob/main/transZH/style.css). Please change back content with your own Fields.
 
 
