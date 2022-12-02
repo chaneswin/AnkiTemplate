@@ -5,7 +5,7 @@ Original Github is [here](https://github.com/chaneswin/AnkiTemplate/tree/main/tr
 
 ## Usage
 1. You can import file AnkiTemplate_transZH.apkg or from [AnkiWeb](https://#).
-2. Just change you own Cloze Template front content with my [front.html](https://github.com/chaneswin/AnkiTemplate/blob/main/transZH/front.html).
+2. Change you own Basic Template back content and style content with my [back.html](https://github.com/chaneswin/AnkiTemplate/blob/main/transZH/back.html) and [style.css](https://github.com/chaneswin/AnkiTemplate/blob/main/transZH/style.css).
 
 
 ## Features
