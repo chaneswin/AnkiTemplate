@@ -14,7 +14,7 @@ Original Github is [here](https://github.com/chaneswin/AnkiTemplate/tree/main/tr
 
 
 ## Bugs
-Some incorrect words show when translating.
+Some incorrect words show with translate.
 
 
 ## Compatibility
