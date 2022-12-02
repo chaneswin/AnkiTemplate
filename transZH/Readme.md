@@ -14,7 +14,7 @@ Original Github is [here](https://github.com/chaneswin/AnkiTemplate/tree/main/tr
 
 
 ## Bugs
-Some incorrect words show if you translate between Traditional Chinese and Simplified Chinese more than once.
+Some incorrect words show when translate.
 
 
 ## Compatibility
